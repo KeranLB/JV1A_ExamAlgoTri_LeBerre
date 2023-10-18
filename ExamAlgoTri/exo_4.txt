@@ -1,0 +1,6 @@
+Le tri à bulle est considéré comme trés lent car il doit parcourir le tableau dans son ensemble 
+à chaque itération.
+
+Le tri à bulle nécessite un ordre de (N**2) de temps, N étant la taille du tableau, car il faut le
+parcourir dans son ensemble à fin que tout le tableau soit trié et à chaque itération le tableau est 
+parcourus de nouveau dans son ensemble.
